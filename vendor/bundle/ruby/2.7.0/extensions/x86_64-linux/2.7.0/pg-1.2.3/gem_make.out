@@ -1,5 +1,5 @@
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/pg-1.2.3/ext
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210210-27494-1vjhmgp.rb extconf.rb
+/home/pamela/.rbenv/versions/2.7.2/bin/ruby -I /home/pamela/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210210-68443-1wf66ut.rb extconf.rb
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
 checking for libpq-fe.h... yes
@@ -50,4 +50,4 @@ linking shared-object pg_ext.so
 
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/pg-1.2.3/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20210210-27494-1wc8ejc
+/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20210210-68443-roi7qm

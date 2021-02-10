@@ -1,5 +1,5 @@
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210210-27494-eyu5jz.rb extconf.rb
+/home/pamela/.rbenv/versions/2.7.2/bin/ruby -I /home/pamela/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210210-68443-1vvwfd8.rb extconf.rb
 checking for rb_ary_subseq()... yes
 creating Makefile
 
@@ -13,4 +13,4 @@ linking shared-object racc/cparse.so
 
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cparse.so ./.gem.20210210-27494-1elbmt6/racc
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20210210-68443-1jestwl/racc

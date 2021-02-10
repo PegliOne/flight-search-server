@@ -1,5 +1,5 @@
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210210-27494-12bquw7.rb extconf.rb
+/home/pamela/.rbenv/versions/2.7.2/bin/ruby -I /home/pamela/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210210-68443-h5me2b.rb extconf.rb
 creating Makefile
 
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
@@ -12,4 +12,4 @@ linking shared-object websocket_mask.so
 
 current directory: /home/pamela/Projects/General Assembly/Main Projects/flight-search-server/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210210-27494-95u5xa
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210210-68443-yz04uz
